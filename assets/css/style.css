@@ -1,0 +1,38 @@
+
+
+
+
+
+ #tvShowButtons{
+    width:100%;
+    padding: 10px 0px;
+    margin-bottom:10px;
+}
+
+
+#tvShows{
+    padding:40px;
+    
+}
+
+    .dynamicButtons {
+      margin: 5px;
+    }
+
+
+    label{
+        font-size:1em;
+        font-weight:bold;
+        margin-bottom:0;
+        padding-bottom:2px;
+    }
+
+/* .formContainer{
+    
+} */
+
+
+
+/* @media (max-width: 575.98px) { 
+
+ } */
