@@ -112,7 +112,6 @@ $("#addTvShow").on("click", function(event){
     // Calling createButtons which handles the processing of the tvShowArray
     createButtons();
 
-    // return false;
 });
 
 
