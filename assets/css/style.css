@@ -1,19 +1,14 @@
 
-
-
-
-
+body{
+    font-family: "Montserrat","HelveticaNeue","Helvetica Neue",sans-serif;
+    font-size:1em;
+}
  #tvShowButtons{
     width:100%;
     padding: 10px 0px;
     margin-bottom:10px;
 }
 
-
-#tvShows{
-  
-    
-}
 
     .dynamicButtons {
       margin: 5px;
@@ -27,12 +22,28 @@
         padding-bottom:2px;
     }
 
-/* .formContainer{
-    
-} */
+    form{
+        margin-bottom:10px;
+    }
+
+    #addTvShow{
+        margin-top:-7px;
+    }
+
+    .gif{
+        padding-left:0;
+    }
 
 
-
-/* @media (max-width: 575.98px) { 
-
- } */
+    @media (min-width: 1px) and (max-width: 767px){
+        .gif, .gifContainer p{
+            padding-left:15px;
+        }
+        
+    }
+    @media (min-width:768px) and (max-width: 991px){
+        
+    }
+    @media (min-width:992px) and (max-width: 9999px){
+       
+    }
